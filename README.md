@@ -1,2 +1,4 @@
 # krish-git
-thia is my first repository code 
+this is my first repository code
+<br>
+my name is krish raj
